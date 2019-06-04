@@ -15,4 +15,4 @@
 * Data Extraction
   * see "primary-studies.xls" and "results.xls"
   
-Please do not hesitate to contact us <juliana.alves-pereira@irisa.fr>, if you think that a certain work is classified incorrectly, or if you know any additional works that should be included.
+Please do not hesitate to [contact us](juliana.alves-pereira@irisa.fr), if you think that a certain work is classified incorrectly, or if you know any additional works that should be included.
