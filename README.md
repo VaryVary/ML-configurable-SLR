@@ -11,6 +11,6 @@
    * we identify severeal open challenges faced by the current approaches
 
 * Data Extraction
-  * see [primary studies](https://github.com/VaryVary/ML-configurable-SLR/edit/master/primary-studies.xls) and [results](https://github.com/VaryVary/ML-configurable-SLR/edit/master/results.xls).
+  * see [primary studies](https://github.com/VaryVary/ML-configurable-SLR/blob/master/primary-studies.xlsx) and [results](https://github.com/VaryVary/ML-configurable-SLR/blob/master/results.xlsx).
   
 Please do not hesitate to [contact us](mailto:juliana.alves-pereira@irisa.fr?subject=[GitHub:SLR]%20Learning%20Configuration%20Spaces), if you think that a certain work is classified incorrectly, or if you know any additional works that should be included.
