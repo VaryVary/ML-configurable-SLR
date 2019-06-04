@@ -1,7 +1,5 @@
 # Learning Software Configuration Spaces: A Systematic Literature Review
 
-## Material 
-
 * Motivation: What studies have been reported in the literature on learning software configuration spaces since the introduction of Software Product Lines to date (2019)? 
  * Based on a systematic literature review
    * we provide a framework classification of four main stages: Sampling, Measuring, Learning, and Validation
