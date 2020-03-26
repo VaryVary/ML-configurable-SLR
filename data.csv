@@ -1,0 +1,302 @@
+﻿reference;applicability;sampling;learning;metric
+\cite{martinez2018};A3;Genetic algorithm;Data Mining Interpolation;(Neighbors Density, Similarity) Confidence
+\cite{valov2015};A1;Random;Bagging;Closeness Range
+\cite{valov2015};A1;Random;CART;Closeness Range
+\cite{valov2015};A1;Random;Random Forest;Closeness Range
+\cite{valov2015};A1;Random;SVM;Closeness Range
+\cite{song2013};A1;iTree;CART;Coverage
+\cite{zhang2016};A1;Random;CART;Coverage
+\cite{safdar2017};A5;NSGA-II;PART;Delaney’s Statistics
+\cite{safdar2017};A5;NSGA-II;PART;Distance Function
+\cite{gargantini2017};A5;CIT of Constraint Validity;CitLab;Equivalence, FID, TRM
+\cite{gargantini2017};A5;Constrained CIT;CitLab;Equivalence, FID, TRM
+\cite{gargantini2017};A5;Constraints Violating CIT;CitLab;Equivalence, FID, TRM
+\cite{gargantini2017};A5;CuCV;CitLab;Equivalence, FID, TRM
+\cite{gargantini2017};A5;Unconstrained CIT;CitLab;Equivalence, FID, TRM
+\cite{osogami2007};A3;Random;Quick Optimization via Guessing;Error Probability
+\cite{aken2017};A3;Historical dataset;Factor Analysis;Experts Feedback
+\cite{aken2017};A3;Historical dataset;GPM;Experts Feedback
+\cite{aken2017};A3;Historical dataset;k-means;Experts Feedback
+\cite{grebhahn2017};A3;Composite design;Multivariate regression;Experts Feedback
+\cite{grebhahn2017};A3;D-Optimal Design;Multivariate regression;Experts Feedback
+\cite{grebhahn2017};A3;Feature coverage;Multivariate regression;Experts Feedback
+\cite{grebhahn2017};A3;Feature frequency;Multivariate regression;Experts Feedback
+\cite{grebhahn2017};A3;NegOW;Multivariate regression;Experts Feedback
+\cite{grebhahn2017};A3;Plackett-Burman;Multivariate regression;Experts Feedback
+\cite{grebhahn2017};A3;Random;Multivariate regression;Experts Feedback
+\cite{aken2017};A3;Historical dataset;OLS;Experts Feedback
+\cite{queiroz2016};A1;Arbitrarily chosen;CART;F-measure
+\cite{amand2019};A5;Cartesian product;CART;F-measure
+\cite{yilmaz2006};A5;Covering arrays;CART;F-measure
+\cite{yilmaz2014};A1;Feature coverage;ELAs;F-measure
+\cite{yilmaz2014};A1;Feature coverage;ELAs;F-measure
+\cite{yilmaz2014};A1;Interaction-wise;ELAs;F-measure
+\cite{yilmaz2014};A1;Interaction-wise;ELAs;F-measure
+\cite{amand2019};A5;Cartesian product;Hoeffding Tree;F-measure
+\cite{amand2019};A5;Cartesian product;K*;F-measure
+\cite{amand2019};A5;Cartesian product;kNN;F-measure
+\cite{amand2019};A5;Cartesian product;Logistic Model Tree;F-measure
+\cite{amand2019};A5;Cartesian product;Logistic Regression;F-measure
+\cite{yilmaz2014};A1;Feature coverage;Multi-class FDA-CIT;F-measure
+\cite{yilmaz2014};A1;Interaction-wise;Multi-class FDA-CIT;F-measure
+\cite{amand2019};A5;Cartesian product;Multilayer Perceptron;F-measure
+\cite{queiroz2016};A1;Arbitrarily chosen;Naive Bayes;F-measure
+\cite{amand2019};A5;Cartesian product;Naive Bayes;F-measure
+\cite{safdar2017};A5;NSGA-II;PART;F-measure
+\cite{amand2019};A5;Cartesian product;PART Decision List;F-measure
+\cite{amand2019};A5;Cartesian product;Random Committee;F-measure
+\cite{queiroz2016};A1;Arbitrarily chosen;Random Forest;F-measure
+\cite{amand2019};A5;Cartesian product;Random Forest;F-measure
+\cite{amand2019};A5;Cartesian product;REP Tree;F-measure
+\cite{amand2019};A5;Cartesian product;RIPPER;F-measure
+\cite{amand2019};A5;Cartesian product;SVM;F-measure
+\cite{yilmaz2014};A1;Feature coverage;Ternary-class FDA-CIT;F-measure
+\cite{yilmaz2014};A1;Interaction-wise;Ternary-class FDA-CIT;F-measure
+\cite{yilmaz2014};A1;Feature coverage;Test case-aware CIT;F-measure
+\cite{yilmaz2014};A1;Interaction-wise;Test case-aware CIT;F-measure
+\cite{yilmaz2014};A1;Feature coverage;Traditional CIT;F-measure
+\cite{yilmaz2014};A1;Interaction-wise;Traditional CIT;F-measure
+\cite{samreen2016};A4;Arbitrarily chosen;Lasso;F-test
+\cite{samreen2016};A4;Arbitrarily chosen;Linear Regression;F-test
+\cite{kaltenecker2019};A1;Distance-based;Linear Regression;F-test
+\cite{kaltenecker2019};A1;Diversified distance-based;Linear Regression;F-test
+\cite{kaltenecker2019};A1;Feature coverage;Linear Regression;F-test
+\cite{kaltenecker2019};A1;Random;Linear Regression;F-test
+\cite{samreen2016};A4;Arbitrarily chosen;Multivariate regression;F-test
+\cite{samreen2016};A4;Arbitrarily chosen;Ridge Regression;F-test
+\cite{etxeberria2014};A2;Feature frequency;Variance Analysis;GAP
+\cite{westermann2012};A3;Equidistant Breakdown;CART;HE
+\cite{westermann2012};A3;Random Breakdown;CART;HE
+\cite{westermann2012};A3;Random Breakdown;CART;HE
+\cite{zhang2015};A1;Random;Fourier Learning;HE
+\cite{westermann2012};A3;Equidistant Breakdown;Genetic Programming;HE
+\cite{westermann2012};A3;Random Breakdown;Genetic Programming;HE
+\cite{westermann2012};A3;Random Breakdown;Genetic Programming;HE
+\cite{westermann2012};A3;Equidistant Breakdown;Kriging;HE
+\cite{westermann2012};A3;Random Breakdown;Kriging;HE
+\cite{westermann2012};A3;Random Breakdown;Kriging;HE
+\cite{westermann2012};A3;Equidistant Breakdown;MARS;HE
+\cite{westermann2012};A3;Random Breakdown;MARS;HE
+\cite{westermann2012};A3;Random Breakdown;MARS;HE
+\cite{safdar2017};A5;NSGA-II;PART;HV
+\cite{kolesnikov2017};A1;non-applicable;Frequent Item Set Mining;Jaccard Similarity
+\cite{kolesnikov2017};A1;non-applicable;Linear Regression;Jaccard Similarity
+\cite{jamshidi2017b};A2;Random;CART;KL, (Rank, Pearson, Spearman) Correlation
+\cite{jamshidi2017b};A2;Random;Linear Regression;KL, (Rank, Pearson, Spearman) Correlation
+\cite{jamshidi2017b};A2;Random;Multinomial Logistic Regression;KL, (Rank, Pearson, Spearman) Correlation
+\cite{westermann2012};A3;Equidistant Breakdown;CART;LT15, LT30
+\cite{westermann2012};A3;Equidistant Breakdown;Genetic Programming;LT15, LT31
+\cite{westermann2012};A3;Equidistant Breakdown;Kriging;LT15, LT32
+\cite{westermann2012};A3;Equidistant Breakdown;MARS;LT15, LT33
+\cite{westermann2012};A3;Random Breakdown;CART;LT15, LT34
+\cite{westermann2012};A3;Random Breakdown;Genetic Programming;LT15, LT35
+\cite{westermann2012};A3;Random Breakdown;Kriging;LT15, LT36
+\cite{westermann2012};A3;Random Breakdown;MARS;LT15, LT37
+\cite{westermann2012};A3;Random Breakdown;CART;LT15, LT38
+\cite{westermann2012};A3;Random Breakdown;Genetic Programming;LT15, LT39
+\cite{westermann2012};A3;Random Breakdown;Kriging;LT15, LT40
+\cite{westermann2012};A3;Random Breakdown;MARS;LT15, LT41
+\cite{murwantara2014};A3;Arbitrarily chosen;Bagging of CART;MAE
+\cite{murwantara2014};A3;Arbitrarily chosen;Bagging of MLPs;MAE
+\cite{murwantara2014};A3;Arbitrarily chosen;CART;MAE
+\cite{martinez2018};A3;Genetic algorithm;Data Mining Interpolation;MAE
+\cite{jamshidi2016};A3;Bayesian optimization;GPM;MAE
+\cite{jamshidi2018};A1;L2S;GPM;MAE
+\cite{jamshidi2016};A3;LHS;GPM;MAE
+\cite{jamshidi2017a};A4;Random;GPM;MAE
+\cite{siegmund2013b};A1;family-based;Graph family-based simulator;MAE
+\cite{lillacka2013};A1;3rd-order coverage;Linear Regression;MAE
+\cite{murwantara2014};A3;Arbitrarily chosen;Linear Regression;MAE
+\cite{lillacka2013};A1;Feature coverage;Linear Regression;MAE
+\cite{lillacka2013};A1;Feature frequency;Linear Regression;MAE
+\cite{murwantara2014};A3;Arbitrarily chosen;Multilayer Perceptron;MAE
+\cite{bao2018};A3;LHS;Random Forest;MAE
+\cite{bao2018};A3;wLHS;Random Forest;MAE
+\cite{jehooh2017};A3;Random;Recursive Searching;MAE
+\cite{elafia2018};A3;NI;SVM;MAE
+\cite{ghamizi2019};A3;PLEDGE diversity;Tensorflow and Keras;MAE
+\cite{kaltenecker2019};A1;Distance-based;Linear Regression;Mann-Whitney U-test
+\cite{kaltenecker2019};A1;Diversified distance-based;Linear Regression;Mann-Whitney U-test
+\cite{kaltenecker2019};A1;Feature coverage;Linear Regression;Mann-Whitney U-test
+\cite{kaltenecker2019};A1;Random;Linear Regression;Mann-Whitney U-test
+\cite{safdar2017};A5;NSGA-II;PART;Mann-Whitney U-test
+\cite{hutter2011};A3;multi-start local search;ROAR and SMAC;Mann-Whitney U-test
+\cite{murwantara2014};A3;Arbitrarily chosen;Bagging of CART;MdMRE
+\cite{murwantara2014};A3;Arbitrarily chosen;Bagging of MLPs;MdMRE
+\cite{murwantara2014};A3;Arbitrarily chosen;CART;MdMRE
+\cite{murwantara2014};A3;Arbitrarily chosen;Linear Regression;MdMRE
+\cite{murwantara2014};A3;Arbitrarily chosen;Multilayer Perceptron;MdMRE
+\cite{nair2017};A3;Random;CART;MRD
+\cite{nair2018a};A3;Random;CART;MRD
+\cite{valov2015};A1;Random;Bagging;MRE
+\cite{nair2018c};A3;East-West ;CART;MRE
+\cite{westermann2012};A3;Equidistant Breakdown;CART;MRE
+\cite{nair2018c};A3;Exemplar;CART;MRE
+\cite{guo2013};A1;Random;CART;MRE
+\cite{guo2017};A1;Random;CART;MRE
+\cite{valov2015};A1;Random;CART;MRE
+\cite{valov2017};A2;Random;CART;MRE
+\cite{nair2018c};A3;Random;CART;MRE
+\cite{westermann2012};A3;Random Breakdown;CART;MRE
+\cite{westermann2012};A3;Random Breakdown;CART;MRE
+\cite{valov2017};A2;Sobol;CART;MRE
+\cite{valov2017};A2;Stratified;CART;MRE
+\cite{valov2017};A2;Walker's alias;CART;MRE
+\cite{siegmund2012a};A1;3rd-order coverage;Feature's Influence Delta;MRE
+\cite{siegmund2011};A1;Feature coverage;Feature's Influence Delta;MRE
+\cite{siegmund2012a};A1;Feature coverage;Feature's Influence Delta;MRE
+\cite{siegmund2013};A1;Feature coverage;Feature's Influence Delta;MRE
+\cite{siegmund2011};A1;Feature frequency;Feature's Influence Delta;MRE
+\cite{siegmund2012a};A1;Feature frequency;Feature's Influence Delta;MRE
+\cite{siegmund2013};A1;Feature frequency;Feature's Influence Delta;MRE
+\cite{siegmund2012a};A1;Hot-spot features;Feature's Influence Delta;MRE
+\cite{siegmund2011};A1;Interaction-wise;Feature's Influence Delta;MRE
+\cite{siegmund2013};A1;Interaction-wise;Feature's Influence Delta;MRE
+\cite{zhang2015};A1;Random;Fourier Learning;MRE
+\cite{westermann2012};A3;Equidistant Breakdown;Genetic Programming;MRE
+\cite{westermann2012};A3;Random Breakdown;Genetic Programming;MRE
+\cite{westermann2012};A3;Random Breakdown;Genetic Programming;MRE
+\cite{jamshidi2018};A1;L2S;GPM;MRE
+\cite{couto2017};A1;non-applicable;Implicit Path Enumeration;MRE
+\cite{duarte2018};A2;Arbitrarily chosen;k-plane;MRE
+\cite{duarte2018};A4;Arbitrarily chosen;k-plane;MRE
+\cite{westermann2012};A3;Equidistant Breakdown;Kriging;MRE
+\cite{westermann2012};A3;Random Breakdown;Kriging;MRE
+\cite{westermann2012};A3;Random Breakdown;Kriging;MRE
+\cite{siegmund2015};A1;Binary and Numerical;Linear Regression;MRE
+\cite{kaltenecker2019};A1;Distance-based;Linear Regression;MRE
+\cite{kaltenecker2019};A1;Diversified distance-based;Linear Regression;MRE
+\cite{kaltenecker2019};A1;Feature coverage;Linear Regression;MRE
+\cite{siegmund2015};A1;Feature coverage;Linear Regression;MRE
+\cite{siegmund2015};A1;Feature frequency;Linear Regression;MRE
+\cite{kolesnikov2018};A2;non-applicable;Linear Regression;MRE
+\cite{siegmund2015};A1;Plackett-Burman;Linear Regression;MRE
+\cite{kaltenecker2019};A1;Random;Linear Regression;MRE
+\cite{siegmund2015};A1;Random;Linear Regression;MRE
+\cite{jamshidi2019};A4;Random;Linear Regression;MRE
+\cite{westermann2012};A3;Equidistant Breakdown;MARS;MRE
+\cite{westermann2012};A3;Random Breakdown;MARS;MRE
+\cite{westermann2012};A3;Random Breakdown;MARS;MRE
+\cite{chen2005};A1;Arbitrarily chosen;Mathematical Modelling;MRE
+\cite{grebhahn2017};A3;Composite design;Multivariate regression;MRE
+\cite{grebhahn2017};A3;D-Optimal Design;Multivariate regression;MRE
+\cite{grebhahn2017};A3;Feature coverage;Multivariate regression;MRE
+\cite{grebhahn2017};A3;Feature frequency;Multivariate regression;MRE
+\cite{grebhahn2017};A3;NegOW;Multivariate regression;MRE
+\cite{grebhahn2017};A3;Plackett-Burman;Multivariate regression;MRE
+\cite{grebhahn2017};A3;Random;Multivariate regression;MRE
+\cite{valov2015};A1;Random;Random Forest;MRE
+\cite{thornton2013};A3;Random;Random Forest;MRE
+\cite{valov2015};A1;Random;SVM;MRE
+\cite{thornton2013};A3;Random;TPE;MRE
+\cite{saleem2015};A3;Historical dataset;AdaRank ;MRR
+\cite{murwantara2014};A3;Arbitrarily chosen;Bagging of CART;MSE
+\cite{murwantara2014};A3;Arbitrarily chosen;Bagging of MLPs;MSE
+\cite{murwantara2014};A3;Arbitrarily chosen;CART;MSE
+\cite{samreen2016};A4;Arbitrarily chosen;Lasso;MSE
+\cite{murwantara2014};A3;Arbitrarily chosen;Linear Regression;MSE
+\cite{samreen2016};A4;Arbitrarily chosen;Linear Regression;MSE
+\cite{murwantara2014};A3;Arbitrarily chosen;Multilayer Perceptron;MSE
+\cite{samreen2016};A4;Arbitrarily chosen;Multivariate regression;MSE
+\cite{samreen2016};A4;Arbitrarily chosen;Ridge Regression;MSE
+\cite{elafia2018};A3;NI;SVM;MSE
+\cite{zheng2007};A3;non-applicable;CART;non-applicable
+\cite{zheng2007};A6;non-applicable;CART;non-applicable
+\cite{siegmund2017};A1;Interaction-wise;Kernel Density and NSGA-II;non-applicable
+\cite{siegmund2017};A2;Interaction-wise;Kernel Density and NSGA-II;non-applicable
+\cite{siegmund2017};A3;Interaction-wise;Kernel Density and NSGA-II;non-applicable
+\cite{siegmund2017};A4;Interaction-wise;Kernel Density and NSGA-II;non-applicable
+\cite{siegmund2017};A5;Interaction-wise;Kernel Density and NSGA-II;non-applicable
+\cite{siegmund2017};A6;Interaction-wise;Kernel Density and NSGA-II;non-applicable
+\cite{siegmund2017};A1;Random;Kernel Density and NSGA-II;non-applicable
+\cite{siegmund2017};A2;Random;Kernel Density and NSGA-II;non-applicable
+\cite{siegmund2017};A3;Random;Kernel Density and NSGA-II;non-applicable
+\cite{siegmund2017};A4;Random;Kernel Density and NSGA-II;non-applicable
+\cite{siegmund2017};A5;Random;Kernel Density and NSGA-II;non-applicable
+\cite{siegmund2017};A6;Random;Kernel Density and NSGA-II;non-applicable
+\cite{siegmund2008};A3;Interaction-wise;Linear Regression;non-applicable
+\cite{siegmund2008};A3;Random;Linear Regression;non-applicable
+\cite{sincero2010};A2;Arbitrarily chosen;Covariance Analysis;NI
+\cite{siegmund2012b};A3;Feature frequency;Feature's Influence Delta;NI
+\cite{sharifloo2016};A4;NI;Reinforcement Learning;NI
+\cite{sharifloo2016};A6;NI;Reinforcement Learning;NI
+\cite{xi2004};A3;LHS;Smart Hill-Climbing;NI
+\cite{xi2004};A3;LHS;Smart Hill-Climbing;NI
+\cite{samreen2016};A4;Arbitrarily chosen;Lasso;p-value, R2, RSE
+\cite{samreen2016};A4;Arbitrarily chosen;Linear Regression;p-value, R2, RSE
+\cite{samreen2016};A4;Arbitrarily chosen;Multivariate regression;p-value, R2, RSE
+\cite{samreen2016};A4;Arbitrarily chosen;Ridge Regression;p-value, R2, RSE
+\cite{zuluaga2016};A3;Diameter uncertainty;GPM;Pareto Prediction Error
+\cite{zhang2016};A1;Random;CART;Performance-Relevant Interactions
+\cite{temple2017a};A4;Random;CART;Precision, Recall
+\cite{temple2017a};A5;Random;CART;Precision, Recall
+\cite{acher2018};A5;Random;CART;Precision, Recall
+\cite{temple2016};A5;Random;CART;Precision, Recall
+\cite{kolesnikov2017};A1;non-applicable;Frequent Item Set Mining;Precision, Recall
+\cite{kolesnikov2017};A1;non-applicable;Linear Regression;Precision, Recall
+\cite{porter2007};A4;nearest neighbor;CART;Qualitative Analysis
+\cite{temple2018};A5;Random;Evasion Attack;Qualitative Analysis
+\cite{temple2018};A5;Random;SVM;Qualitative Analysis
+\cite{svogor2019};A4;Random;Genetic Programming;Rank Accuracy
+\cite{bao2018};A3;LHS;Random Forest;Rank Accuracy
+\cite{bao2018};A3;wLHS;Random Forest;Rank Accuracy
+\cite{svogor2019};A3;Random;Simulated annealing;Rank Accuracy
+\cite{jamshidi2019};A4;Random;Linear Regression;Rank Correlation
+\cite{krismayer2017};A4;STT;CART;Ranking Constraints
+\cite{krismayer2017};A5;STT;CART;Ranking Constraints
+\cite{krismayer2017};A4;STT with random differences;CART;Ranking Constraints
+\cite{krismayer2017};A5;STT with random differences;CART;Ranking Constraints
+\cite{chen2009};A4;Arbitrarily chosen;Actor-Critic;Reward
+\cite{chen2009};A4;Random;Actor-Critic;Reward
+\cite{nair2018c};A3;East-West ;CART;Sampling Cost
+\cite{nair2018c};A3;Exemplar;CART;Sampling Cost
+\cite{sarkar2015};A1;Feature coverage;CART;Sampling Cost
+\cite{sarkar2015};A1;Feature frequency;CART;Sampling Cost
+\cite{song2013};A1;iTree;CART;Sampling Cost
+\cite{nair2018a};A3;Random;CART;Sampling Cost
+\cite{nair2018c};A3;Random;CART;Sampling Cost
+\cite{alipourfard2017};A3;Quasi-random;GPM;Sampling Cost
+\cite{duarte2018};A2;Arbitrarily chosen;k-plane;Sampling Cost
+\cite{duarte2018};A4;Arbitrarily chosen;k-plane;Sampling Cost
+\cite{weckesser2018};A4;Random;Linear Regression;Sampling Cost
+\cite{grebhahn2017};A3;Composite design;Multivariate regression;Sampling Cost
+\cite{grebhahn2017};A3;D-Optimal Design;Multivariate regression;Sampling Cost
+\cite{grebhahn2017};A3;Feature coverage;Multivariate regression;Sampling Cost
+\cite{grebhahn2017};A3;Feature frequency;Multivariate regression;Sampling Cost
+\cite{grebhahn2017};A3;NegOW;Multivariate regression;Sampling Cost
+\cite{grebhahn2017};A3;Plackett-Burman;Multivariate regression;Sampling Cost
+\cite{grebhahn2017};A3;Random;Multivariate regression;Sampling Cost
+\cite{porter2007};A4;nearest neighbor;CART;Statistical Significance
+\cite{valov2017};A2;Random;CART;Structure of the model
+\cite{valov2017};A2;Sobol;CART;Structure of the model
+\cite{valov2017};A2;Stratified;CART;Structure of the model
+\cite{valov2017};A2;Walker's alias;CART;Structure of the model
+\cite{kolesnikov2018};A2;non-applicable;Linear Regression;Structure of the model
+\cite{yilmaz2014};A1;Feature coverage;ELAs;t-masked 
+\cite{yilmaz2014};A1;Feature coverage;ELAs;t-masked 
+\cite{yilmaz2014};A1;Interaction-wise;ELAs;t-masked 
+\cite{yilmaz2014};A1;Interaction-wise;ELAs;t-masked 
+\cite{yilmaz2014};A1;Feature coverage;Multi-class FDA-CIT;t-masked 
+\cite{yilmaz2014};A1;Interaction-wise;Multi-class FDA-CIT;t-masked 
+\cite{yilmaz2014};A1;Feature coverage;Ternary-class FDA-CIT;t-masked 
+\cite{yilmaz2014};A1;Interaction-wise;Ternary-class FDA-CIT;t-masked 
+\cite{yilmaz2014};A1;Feature coverage;Test case-aware CIT;t-masked 
+\cite{yilmaz2014};A1;Interaction-wise;Test case-aware CIT;t-masked 
+\cite{yilmaz2014};A1;Feature coverage;Traditional CIT;t-masked 
+\cite{yilmaz2014};A1;Interaction-wise;Traditional CIT;t-masked 
+\cite{queiroz2016};A1;Arbitrarily chosen;CART;TP, FP, ROC
+\cite{queiroz2016};A1;Arbitrarily chosen;Naive Bayes;TP, FP, ROC
+\cite{queiroz2016};A1;Arbitrarily chosen;Random Forest;TP, FP, ROC
+\cite{ding2015};A3;Clustering-based;Exhaustive Feature Classifiers;Tuning Time
+\cite{aken2017};A3;Historical dataset;Factor Analysis;Tuning Time
+\cite{aken2017};A3;Historical dataset;GPM;Tuning Time
+\cite{aken2017};A3;Historical dataset;k-means;Tuning Time
+\cite{aken2017};A3;Historical dataset;OLS;Tuning Time
+\cite{osogami2007};A3;Random;Quick Optimization via Guessing;Tuning Time
+\cite{xu2008};A3;Interaction-wise;Ridge Regression;Tuning Time
+\cite{valov2015};A1;Random;Bagging;Winner Probability
+\cite{valov2015};A1;Random;CART;Winner Probability
+\cite{valov2015};A1;Random;Random Forest;Winner Probability
+\cite{valov2015};A1;Random;SVM;Winner Probability
+;;;;
+;;;;
