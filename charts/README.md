@@ -12,31 +12,31 @@ For dynamic configuration, the most used sampling is arbitrarily chosen and rand
 
 ## Applicability: Pure Prediction (A1)
 
-![A1-leg](https://github.com/VaryVary/ML-configurable-SLR/charts/blob/master/A1-leg.png)
-![A1](https://github.com/VaryVary/ML-configurable-SLR/charts/blob/master/A1.png)
+![A1-leg](https://github.com/VaryVary/ML-configurable-SLR/blob/master/charts/A1-leg.png)
+![A1](https://github.com/VaryVary/ML-configurable-SLR/blob/master/charts/A1.png)
 
 ## Applicability: Interpretability of configurable systems (A2)
 
-![A2-leg](https://github.com/VaryVary/ML-configurable-SLR/charts/blob/master/A2-leg.png)
-![A2](https://github.com/VaryVary/ML-configurable-SLR/charts/blob/master/A2.png)
+![A2-leg](https://github.com/VaryVary/ML-configurable-SLR/blob/master/charts/A2-leg.png)
+![A2](https://github.com/VaryVary/ML-configurable-SLR/blob/master/charts/A2.png)
 
 ## Applicability: Optimization (A3)
 
-![A3-leg_1](https://github.com/VaryVary/ML-configurable-SLR/charts/blob/master/A3-leg_1.png)
-![A3-leg_2](https://github.com/VaryVary/ML-configurable-SLR/charts/blob/master/A3-leg_2.png)
-![A3](https://github.com/VaryVary/ML-configurable-SLR/charts/blob/master/A3.png)
+![A3-leg_1](https://github.com/VaryVary/ML-configurable-SLR/blob/master/charts/A3-leg_1.png)
+![A3-leg_2](https://github.com/VaryVary/ML-configurable-SLR/blob/master/charts/A3-leg_2.png)
+![A3](https://github.com/VaryVary/ML-configurable-SLR/blob/master/charts/A3.png)
 
 ## Applicability: Dynamic Configuration (A4)
 
-![A4-leg](https://github.com/VaryVary/ML-configurable-SLR/charts/blob/master/A4-leg.png)
-![A4](https://github.com/VaryVary/ML-configurable-SLR/charts/blob/master/A4.png)
+![A4-leg](https://github.com/VaryVary/ML-configurable-SLR/blob/master/charts/A4-leg.png)
+![A4](https://github.com/VaryVary/ML-configurable-SLR/blob/master/charts/A4.png)
 
 ## Applicability: Mining Constraints (A5)
 
-![A5-leg](https://github.com/VaryVary/ML-configurable-SLR/charts/blob/master/A5-leg.png)
-![A5](https://github.com/VaryVary/ML-configurable-SLR/charts/blob/master/A5.png)
+![A5-leg](https://github.com/VaryVary/ML-configurable-SLR/blob/master/charts/A5-leg.png)
+![A5](https://github.com/VaryVary/ML-configurable-SLR/blob/master/charts/A5.png)
 
 ## Applicability: Evolution (A6)
 
-![A6-leg](https://github.com/VaryVary/ML-configurable-SLR/charts/blob/master/A6-leg.png)
-![A6](https://github.com/VaryVary/ML-configurable-SLR/charts/blob/master/A6.png)
+![A6-leg](https://github.com/VaryVary/ML-configurable-SLR/blob/master/charts/A6-leg.png)
+![A6](https://github.com/VaryVary/ML-configurable-SLR/blob/master/charts/A6.png)
