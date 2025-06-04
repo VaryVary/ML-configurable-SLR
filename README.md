@@ -1,4 +1,4 @@
-# Learning Software Configuration Spaces: A Systematic Literature Review
+## Learning Software Configuration Spaces: A Systematic Literature Review
 
 Cite our paper: Pereira, J. A., Acher, M., Martin, H., Jézéquel, J. M., Botterweck, G., & Ventresque, A. (2021). Learning software configuration spaces: A systematic literature review. Journal of Systems and Software, 182, 111044.
 
